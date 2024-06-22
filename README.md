@@ -32,7 +32,6 @@ for easier access.
 
 ## Usage CLI
 Run the script with the number of days as an argument:
-    ```bash
     python attendance_prob.py 5
 
 ## Expected Output
